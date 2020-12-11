@@ -16,7 +16,7 @@ order: 200
 
 
 ## Book chapters
-- !!! [The ‘C’ word: Class, migrants and academia](https://www.sensepublishers.com/catalogs/bookseries/other-books/bread-and-roses/), book chapter in Bread &amp; Roses: Voices of Australian Academics from the Working Class, Sense Rotterdam
+- The ‘C’ word: Class, migrants and academia, book chapter in Bread &amp; Roses: Voices of Australian Academics from the Working Class, Sense Rotterdam
 - Edouard Louis, prose piece in ZineWest 2020 anthology (forthcoming)
 
 ## Blogs

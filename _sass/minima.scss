@@ -2,17 +2,18 @@
 
 // Define defaults for each variable.
 
-$base-font-family: 'Goudy Bookletter 1911', serif;
-$base-font-family-text: 'Josefin Sans', sans-serif;
-$base-font-size:   16px !default;
-$base-font-weight: 400 !default;
+$base-font-family: 'Texturina', serif;
+$base-font-family-text: 'Texturina', serif;
+$base-font-size:   17px !default;
+$base-font-weight: 900 !default;
+$base-font-weight-text:200 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.8 !default;
 
 $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
-$background-color: #fdfdfd !default;
+$background-color: #f5f4f0 !default;
 $brand-color:      #2a7ae2 !default;
 
 $grey-color:       #828282 !default;
@@ -22,10 +23,10 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    940px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        940px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {

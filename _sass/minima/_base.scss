@@ -8,13 +8,15 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+// https://css-tricks.com/elegant-fix-jumping-scrollbar-issue/
+//html {margin-left: calc(100vw - 100%); }
 
 
 /**
  * Basic styling
  */
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family-text;
+  font: $base-font-weight-text #{$base-font-size}/#{$base-line-height} $base-font-family-text;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
@@ -30,8 +32,13 @@ body {
 
 
 h1, h2, h3, h4, h5, h6,
-.site-header, .site-footer{
+.site-header{
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+}
+
+
+.site-footer{
+  font: $base-font-weight-text #{$base-font-size}/#{$base-line-height} $base-font-family;
 }
 
 /**
@@ -217,8 +224,8 @@ pre {
     height: 16px;
     display: inline-block;
     fill: #{$grey-color};
-    padding-right: 5px;
-    vertical-align: text-top;
+    padding-right: 3px;
+    vertical-align: middle;
 }
 
 .social-media-list {
@@ -262,15 +269,16 @@ form {
     display: block;
     margin: 15px 0;
 	padding: 0.4em 0.8em;
-    border: 1px solid $grey-color-light;		  
+    border: 1px solid $grey-color;		  
 	background-color: $background-color;
-    font: $base-font-weight #{$base-font-size*0.8}/#{$base-line-height} $base-font-family-text;
+    font: $base-font-weight-text #{$base-font-size*1}/#{$base-line-height} $base-font-family-text;
   }
   button{
 	background-color: $grey-color-light;
     cursor:pointer;
   }
   input, textarea {
-    width: 55%;
+    width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 3));
+    width:         calc(#{$content-width} - (#{$spacing-unit} * 3));
   }
 }
