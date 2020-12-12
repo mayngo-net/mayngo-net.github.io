@@ -9,10 +9,11 @@
 }
 
 .site-title {
-  @include relative-font-size(3.3);
-  font-weight: $base-font-weight;
-  line-height: $base-line-height * $base-font-size * 3.3;
+  @include relative-font-size(4);
+  font-weight: $base-font-weight-text;
+  line-height: $base-line-height * $base-font-size * 4;
   letter-spacing: -1px;
+  margin-top: $base-font-size * 1.6;
   margin-bottom: 0;
   float: left;
 
@@ -28,7 +29,8 @@
 
 .site-nav {
   float: right;
-  line-height: $base-line-height * $base-font-size * 4;
+  //line-height: $base-line-height * $base-font-size * 4;
+  margin-top: $base-font-size * 5.7;
 
   .page-link {
     color: $text-color;
@@ -218,5 +220,8 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+  a{
+    word-wrap: break-word;      
   }
 }
