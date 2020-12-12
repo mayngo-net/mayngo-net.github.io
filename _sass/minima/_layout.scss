@@ -6,14 +6,14 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  margin-top: $base-font-size * 4;  
 }
 
 .site-title {
-  @include relative-font-size(4);
+  @include relative-font-size(4.2);
   font-weight: $base-font-weight-text;
   line-height: $base-line-height * $base-font-size * 4;
   letter-spacing: -1px;
-  margin-top: $base-font-size * 1.6;
   margin-bottom: 0;
   float: left;
 
@@ -29,8 +29,8 @@
 
 .site-nav {
   float: right;
-  //line-height: $base-line-height * $base-font-size * 4;
-  margin-top: $base-font-size * 5.7;
+  line-height: $base-line-height * $base-font-size * 5.5;
+  //margin-top: $base-font-size * 5.7;
 
   .page-link {
     color: $text-color;
