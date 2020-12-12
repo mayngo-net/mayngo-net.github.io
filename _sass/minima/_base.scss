@@ -280,5 +280,6 @@ form {
   input, textarea {
     width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 3));
     width:         calc(#{$content-width} - (#{$spacing-unit} * 3));
+    max-width: 95%;
   }
 }
