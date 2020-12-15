@@ -10,6 +10,8 @@
       {{ page.title | escape }} | {{ site.title | escape }}
   {% endif %}
 </title>
+      
+  <link rel="canonical" href="https://mayngo.net"/>
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
