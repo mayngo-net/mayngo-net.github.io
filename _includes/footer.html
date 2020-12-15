@@ -8,8 +8,15 @@
           <img width="105" height="159" src="{{ '/assets/ptak.png' | relative_url }}" alt="May :)" class="footer-logo">
         <h2 class="footer-heading">{{ site.title | escape }}</h2>
         <p>{{- site.description | escape -}}</p>
-        <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-        {%- include social.html -%}
+        <ul class="social-media-list">
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>
+            <a href="https://www.twitter.com/{{ site.twitter_username }}">
+            <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg>
+            <span class="username">{{ site.twitter_username }}</span>
+            </a>
+          </li>
+        </ul>
       </div>
 
       <div class="footer-col footer-col-2">
