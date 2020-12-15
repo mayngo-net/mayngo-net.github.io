@@ -23,7 +23,7 @@ email: hello@mayngo.net
 description: >- # this means to ignore newlines until "baseurl:"
   Writer, academic, dumpling lover
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mayngo.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mayngo2
 #github_username:  jekyll
 google_analytics: G-B3X3MM6VB2
