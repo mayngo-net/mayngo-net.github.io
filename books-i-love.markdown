@@ -13,5 +13,6 @@ order: 300
 * [The Complete Short Stories](https://www.barnesandnoble.com/w/the-complete-short-stories-by-anton-chekhov-anton-chekhov/1126987502), Anton Chekhov
 * [Disoriental](https://www.europaeditions.com/book/9781609454517/disoriental), Négar Djavadi
 * [My Brilliant Friend](http://elenaferrante.com/works/my-brilliant-friend/), Elena Ferrante
-
+* [Seasons of Migration to the North](https://www.penguinrandomhouse.com/books/159927/season-of-migration-to-the-north-by-tayeb-salih/), Tayeb Salih
+* [Austerlitz](https://www.penguin.co.uk/books/266/26636/austerlitz/9780241984482.html), W.G. Sebald
 
