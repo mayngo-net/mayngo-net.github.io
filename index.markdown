@@ -12,7 +12,7 @@ I am the [Kill Your Darlings 2021 New Critic](https://www.killyourdarlings.com.a
 
 I am also an [anthropologist](<http://www.orient.cas.cz/kontakty/pracovnici/ngo.html>).
 
-I have a blog [The Violent Bear It Away](theviolentbearitaway1.wordpress.com).
+I have a blog [The Violent Bear It Away](https://theviolentbearitaway1.wordpress.com).
 
 
 
