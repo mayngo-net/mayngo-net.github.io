@@ -20,12 +20,13 @@ order: 200
 - [Between Humanitarianism and Evangelism in Faith-based Organisations: A Case from the African Migration Route](https://www.routledge.com/Between-Humanitarianism-and-Evangelism-in-Faith-based-Organisations-A/Ngo/p/book/9781138674172), academic book, Routledge
 
 
-## Book chapters
-- The ‘C’ word: Class, migrants and academia, book chapter in Bread &amp; Roses: Voices of Australian Academics from the Working Class, Sense Rotterdam
-- Edouard Louis, prose piece in ZineWest 2020 anthology (forthcoming)
+## Book chapters/anthologies
+- The ‘C’ word: Class, migrants and academia, book chapter in [Bread &amp; Roses: Voices of Australian Academics from the Working Class](https://www.springer.com/gp/book/9789463001274)
+- Edouard Louis, prose piece in [ZineWest 2020 anthology](https://nwg-inc.com/word/?p=4114)
+- Shopping Night, [Second City: Essays from Western Sydney](https://giramondopublishing.com/books/second-city-essays-from-western-sydney/)
 
 ## Blogs
-- [Family and fieldwork: on longing and commitment in knowledge production](https://researchwhisperer.org/2018/05/01/family-and-fieldwork-on-longing-and-commitment-in-knowledge-production/), academic blog post, The Research Whisperer
-- [When you can’t get what you need: response to DIY scholarly careers](https://theresearchwhisperer.wordpress.com/2015/09/15/response-to-diy-scholarly-careers/#more-3910), academic blog post, The Research Whisperer
+- [Family and fieldwork: on longing and commitment in knowledge production](https://researchwhisperer.org/2018/05/01/family-and-fieldwork-on-longing-and-commitment-in-knowledge-production/), academic blog post, _The Research Whisperer_
+- [When you can’t get what you need: response to DIY scholarly careers](https://theresearchwhisperer.wordpress.com/2015/09/15/response-to-diy-scholarly-careers/#more-3910), academic blog post, _The Research Whisperer_
 
 
