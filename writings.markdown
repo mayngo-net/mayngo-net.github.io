@@ -5,6 +5,11 @@ permalink: /writings
 order: 200
 ---
 
+## Recent
+- Essay: [Liberation/Fall](https://dvan.org/2021/04/liberation-fall/), _diaCRITICS_
+- Book review: [Minor Detail](https://www.killyourdarlings.com.au/article/minor-detail-asks-if-language-can-ever-truly-bear-witness/), _The Lifted Brow_
+- Interview: [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), _Asian American Writers Workshop_
+
 ## Online
 - [Shopping Night](https://sydneyreviewofbooks.com/essay/ngo-shopping-night/), Sydney Review of Books
 - [Looking for Paris](https://www.theliftedbrow.com/liftedbrow/2018/9/11/looking-for-paris-by-may-ngo), The Lifted Brow
