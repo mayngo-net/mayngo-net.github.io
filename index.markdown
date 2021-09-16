@@ -12,9 +12,9 @@ You can check out some of my [writing here](writings). I used to blog at [The Vi
 
 Recent highlights:
 
-- Recipient of the [Kill Your Darlings 2021 New Critic Award](https://www.killyourdarlings.com.au/2020/12/announcing-kyds-2021-new-critic-may-ngo/), focusing on translated literature. I answered [5 questions for _Liminal_ magazine](https://www.liminalmag.com/5-questions/may-ngo) about this Award.
+- Recipient of the _Kill Your Darlings_ [2021 New Critic Award](https://www.killyourdarlings.com.au/2020/12/announcing-kyds-2021-new-critic-may-ngo/), focusing on translated literature. I answered 5 questions for [_Liminal_ magazine](https://www.liminalmag.com/5-questions/may-ngo) about this Award.
 
-- One of the recipients of the [Sydney Review of Books 2021 JUNCTURE Fellowship Program](https://sydneyreviewofbooks.com/juncture2021/) for book critics. 
+- One of the recipients of the _Sydney Review of Books_ [2021 JUNCTURE Fellowship Program](https://sydneyreviewofbooks.com/juncture2021/) for book critics. 
 
 - Working on an audio drama series that is currently in development for [_Podimo_](https://podimo.com/en/)
 
