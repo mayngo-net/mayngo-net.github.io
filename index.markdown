@@ -8,17 +8,20 @@ I am a freelance writer and academic currently based in Prague, Czech Republic. 
 
 I do a wide variety of writing including: criticism, fiction, audio drama and academic writing. I also have extensive research skills. 
 
-You can check out some of my [writing here](writings).
+You can check out some of my [writing here](writings). I used to blog at [The Violent Bear It Away](https://theviolentbearitaway1.wordpress.com).
 
-I am the [Kill Your Darlings 2021 New Critic](https://www.killyourdarlings.com.au/2020/12/announcing-kyds-2021-new-critic-may-ngo/), focusing on translated literature. I answered [5 questions for _Liminal_ magazine](https://www.liminalmag.com/5-questions/may-ngo) about this Award.
+Recent highlights:
 
-I am one of the recipients of the [Sydney Review of Books 2021 JUNCTURE Fellowship Program](https://sydneyreviewofbooks.com/juncture2021/) for book critics. 
+- Recipient of the [Kill Your Darlings 2021 New Critic Award](https://www.killyourdarlings.com.au/2020/12/announcing-kyds-2021-new-critic-may-ngo/), focusing on translated literature. I answered [5 questions for _Liminal_ magazine](https://www.liminalmag.com/5-questions/may-ngo) about this Award.
 
-I am working on an audio drama series that is currently in development for [_Podimo_](https://podimo.com/en/)
+- One of the recipients of the [Sydney Review of Books 2021 JUNCTURE Fellowship Program](https://sydneyreviewofbooks.com/juncture2021/) for book critics. 
 
-I have a PhD in anthropology, and formerly worked as an [anthropologist](http://www.orient.cas.cz/kontakty/pracovnici/ngo.html).
+- Working on an audio drama series that is currently in development for [_Podimo_](https://podimo.com/en/)
 
-I have a blog [The Violent Bear It Away](https://theviolentbearitaway1.wordpress.com).
+- I have a PhD in anthropology, and formerly worked as an [anthropologist](http://www.orient.cas.cz/kontakty/pracovnici/ngo.html).
+
+
+
 
 
 
