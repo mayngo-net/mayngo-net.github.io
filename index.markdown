@@ -4,15 +4,17 @@ title: About
 order: 100
 ---
 
-I am a writer and academic currently based in Prague, Czech Republic. I am Australian of Teo Chew Chinese-Cambodian descent.
+I am a freelance writer and academic currently based in Prague, Czech Republic. I am Australian of Teo Chew Chinese-Cambodian descent.
 
-Some of my writing can be found in publications such as the _Sydney Review of Books_, _Mascara Literary Review_, _The&nbsp;Lifted Brow_ and _diaCRITICS_. I am currently working on a novel. 
+I do a wide variety of writing including: criticism, fiction, audio drama and academic writing. I also have extensive research skills. 
 
 You can check out some of my [writing here](writings).
 
 I am the [Kill Your Darlings 2021 New Critic](https://www.killyourdarlings.com.au/2020/12/announcing-kyds-2021-new-critic-may-ngo/), focusing on translated literature. I answered [5 questions for _Liminal_ magazine](https://www.liminalmag.com/5-questions/may-ngo) about this Award.
 
 I am one of the recipients of the [Sydney Review of Books 2021 JUNCTURE Fellowship Program](https://sydneyreviewofbooks.com/juncture2021/) for book critics. 
+
+I am working on an audio drama series that is currently in development for [_Podimo_](https://podimo.com/en/)
 
 I have a PhD in anthropology, and formerly worked as an [anthropologist](http://www.orient.cas.cz/kontakty/pracovnici/ngo.html).
 
