@@ -6,6 +6,8 @@ order: 200
 ---
 
 ## Recent
+- Book review: [On the Line](https://www.killyourdarlings.com.au/article/lives-on-the-line/), _Kill Your Darlings_
+- Book review: [One Hundred Days](https://sydneyreviewofbooks.com/review/pung-one-hundred-days/), _Sydney Review of Books_
 - Essay: [Liberation/Fall](https://dvan.org/2021/04/liberation-fall/), _diaCRITICS_
 - Book review: [Minor Detail](https://www.killyourdarlings.com.au/article/minor-detail-asks-if-language-can-ever-truly-bear-witness/), _Kill Your Darlings_
 - Interview: [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), _Asian American Writers Workshop_
