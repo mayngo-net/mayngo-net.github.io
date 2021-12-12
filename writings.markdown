@@ -6,16 +6,23 @@ order: 200
 ---
 
 ## Recent
-- Book review: [On the Line](https://www.killyourdarlings.com.au/article/lives-on-the-line/), _Kill Your Darlings_
-- Book review: [One Hundred Days](https://sydneyreviewofbooks.com/review/pung-one-hundred-days/), _Sydney Review of Books_
+- Audio drama series (15 episodes, translated into German) [_Connect: The Secret Sex Society_](https://podimo.com/de/shows/974c9b3f-b10e-469c-8689-0a8ab487e128)
 - Essay: [Liberation/Fall](https://dvan.org/2021/04/liberation-fall/), _diaCRITICS_
-- Book review: [Minor Detail](https://www.killyourdarlings.com.au/article/minor-detail-asks-if-language-can-ever-truly-bear-witness/), _Kill Your Darlings_
 - Interview: [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), _Asian American Writers Workshop_
+ 
+## Book Reviews
+- [My Brilliant Friend](https://www.killyourdarlings.com.au/article/my-brilliant-friend-and-i/), _Kill Your Darlings_
+- [On the Line](https://www.killyourdarlings.com.au/article/lives-on-the-line/), _Kill Your Darlings_
+- [Disoriental](https://www.killyourdarlings.com.au/article/disoriental-and-the-dichotomies-of-diaspora/), _Kill Your Darlings_
+- [My Heart](https://www.killyourdarlings.com.au/article/the-complicated-grief-of-a-writer-in-exile/), _Kill Your Darlings_
+- [Minor Detail](https://www.killyourdarlings.com.au/article/minor-detail-asks-if-language-can-ever-truly-bear-witness/), _Kill Your Darlings_
+- [One Hundred Days](https://sydneyreviewofbooks.com/review/pung-one-hundred-days/), _Sydney Review of Books_
+- [Craft in the Real World](https://sydneyreviewofbooks.com/review/salesses-craft-in-the-real-world/), _Sydney Review of Books_
 
 ## Online
-- [Shopping Night](https://sydneyreviewofbooks.com/essay/ngo-shopping-night/), Sydney Review of Books
-- [Looking for Paris](https://www.theliftedbrow.com/liftedbrow/2018/9/11/looking-for-paris-by-may-ngo), The Lifted Brow
-- [Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), Mascara Literary Review
+- [Shopping Night](https://sydneyreviewofbooks.com/essay/ngo-shopping-night/), _Sydney Review of Books_
+- [Looking for Paris](https://www.theliftedbrow.com/liftedbrow/2018/9/11/looking-for-paris-by-may-ngo), _The Lifted Brow_
+- [Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), _Mascara Literary Review_
 
 
 ## Book
