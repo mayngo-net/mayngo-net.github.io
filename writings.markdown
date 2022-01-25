@@ -10,6 +10,7 @@ order: 200
 - Audio drama series (15 episodes, translated into German) [_Connect: The Secret Sex Society_](https://podimo.com/de/shows/974c9b3f-b10e-469c-8689-0a8ab487e128)
 - Essay: [Liberation/Fall](https://dvan.org/2021/04/liberation-fall/), _diaCRITICS_
 - Interview: [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), _Asian American Writers Workshop_
+- Review: [The Power of Words, Simone Weil](https://wccm.org/book-reviews/the-power-of-words-simone-weil/), _World Community for Christian Meditation_
  
 ## Book Reviews
 
