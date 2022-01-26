@@ -8,7 +8,7 @@ I am a freelance writer and academic currently based in Prague, Czech Republic. 
 
 I do a wide variety of writing including: criticism, fiction, audio drama and academic writing. I also have extensive research skills. 
 
-You can check out some of my [writing here](writings). I used to blog at [The Violent Bear It Away](https://theviolentbearitaway1.wordpress.com).
+You can check out some of my [writing here](writings). I used to blog at [The Violent Bear It Away](https://theviolentbearitaway1.wordpress.com). You can also subscribe to my newsletter, [tangents converge](https://mayngo.substack.com/p/coming-soon?showWelcome=true).
 
 
 Recent highlights:
