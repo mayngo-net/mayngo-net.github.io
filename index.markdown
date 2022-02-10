@@ -10,6 +10,7 @@ I do a wide variety of writing including: criticism, fiction, audio drama and ac
 
 You can check out some of my [writing here](writings). I used to blog at [The Violent Bear It Away](https://theviolentbearitaway1.wordpress.com). You can also subscribe to my newsletter, [tangents converge](https://mayngo.substack.com/p/coming-soon?showWelcome=true).
 
+I edit the book reviews section for the [World Community for Christian Meditation](https://wccm.org/category/book-reviews/) 
 
 Recent highlights:
 
