@@ -11,9 +11,13 @@ order: 200
 - Essay: [Liberation/Fall](https://dvan.org/2021/04/liberation-fall/), _diaCRITICS_
 - Interview: [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), _Asian American Writers Workshop_
 - Review: [The Power of Words, Simone Weil](https://wccm.org/book-reviews/the-power-of-words-simone-weil/), _World Community for Christian Meditation_
+- Interview: [Diana Cam Van Nguyen](https://dvan.org/2022/04/diana-cam-van-nguyen-interview/), _diaCRITICS_
  
 ## Book Reviews
 
+- [Root and Branch: Essays on Inheritance](https://meanjin.com.au/review/gurbet-cekmek-being-diaspora-is-a-wound/), _Meanjin_
+- [DMZ Colony](https://sydneyreviewofbooks.com/review/don-mee-choi-dmz-colony/), _Sydney Review of Books_
+- [Intimations](https://sydneyreviewofbooks.com/review/zadie-smith-intimations/), _Sydney Review of Books_
 - [My Brilliant Friend](https://www.killyourdarlings.com.au/article/my-brilliant-friend-and-i/), _Kill Your Darlings_
 - [On the Line](https://www.killyourdarlings.com.au/article/lives-on-the-line/), _Kill Your Darlings_
 - [Disoriental](https://www.killyourdarlings.com.au/article/disoriental-and-the-dichotomies-of-diaspora/), _Kill Your Darlings_
