@@ -240,8 +240,9 @@
   img {
     float:right; 
     padding-left:2rem;
-     @include media-query($on-palm){
+    @include media-query($on-palm){
       float:none; 
       padding:0;
+    }
   }
 }
