@@ -9,8 +9,6 @@ May Ngo is a writer, editor and former academic with a PhD in anthropology. She 
 
 You can read some of her [writing here](writings). 
 
-You can find [updates here](news).
-
 She used to blog at [The Violent Bear It Away](https://theviolentbearitaway1.wordpress.com/).
 
 You can subscribe to her newsletter, [tangents converge](https://mayngo.substack.com/).
