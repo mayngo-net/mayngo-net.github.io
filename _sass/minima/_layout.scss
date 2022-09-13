@@ -238,11 +238,9 @@
     word-wrap: break-word;      
   }
   img {
-    float:right; 
-    padding-left:2rem;
+    display: block;
+    margin: auto;
     @include media-query($on-palm){
-      float:none; 
-      padding:0;
     }
   }
 }
