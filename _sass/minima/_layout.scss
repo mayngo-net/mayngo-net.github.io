@@ -143,6 +143,7 @@
 @include media-query($on-palm) {
   .footer-col {
     float: none;
+    text-align:center;
     width: -webkit-calc(100% - (#{$spacing-unit} * 2));
     width:         calc(100% - (#{$spacing-unit} * 2));
   }
