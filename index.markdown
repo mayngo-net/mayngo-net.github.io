@@ -3,8 +3,6 @@ layout: no-title-page
 order: 100
 ---
 
-![May](/assets/may.jpg)
-
 May Ngo is a writer, editor and former academic with a PhD in anthropology. She is Australian of Teo Chew Chinese-Cambodian descent currently based in Prague, Czech Republic. 
 
 You can read some of her [writing here](writings). 
@@ -29,8 +27,4 @@ May is available for commissions in audio drama, writing, editing, research, cop
 
 - One of the recipients of the _Sydney Review of Books_ [2021 JUNCTURE Fellowship Program](https://sydneyreviewofbooks.com/juncture2021/) for book critics
 
-
-
-
-
-
+![May](/assets/may.jpg)
