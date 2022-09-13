@@ -1,5 +1,5 @@
 ---
-layout: no-title-page
+layout: page
 shorttitle: Editing
 title: Editing / Copywriting
 permalink: /editing-copywriting
