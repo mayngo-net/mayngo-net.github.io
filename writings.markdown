@@ -10,11 +10,13 @@ order: 200
 - Audio drama series (15 episodes, translated into German) [_Connect: The Secret Sex Society_](https://podimo.com/de/shows/974c9b3f-b10e-469c-8689-0a8ab487e128)
 - Essay: [Liberation/Fall](https://dvan.org/2021/04/liberation-fall/), _diaCRITICS_
 - Interview: [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), _Asian American Writers Workshop_
-- Review: [The Power of Words, Simone Weil](https://wccm.org/book-reviews/the-power-of-words-simone-weil/), _World Community for Christian Meditation_
 - Interview: [Diana Cam Van Nguyen](https://dvan.org/2022/04/diana-cam-van-nguyen-interview/), _diaCRITICS_
  
 ## Book Reviews
 
+- [Oh William!](https://sydneyreviewofbooks.com/review/strout-oh-william/), _Sydney Review of Books_
+- [Lemon](https://sydneyreviewofbooks.com/review/lemon-kwon-yeo-sun/), _Sydney Review of Books_
+- [The Power of Words, Simone Weil](https://wccm.org/book-reviews/the-power-of-words-simone-weil/), _World Community for Christian Meditation_
 - [Root and Branch: Essays on Inheritance](https://meanjin.com.au/review/gurbet-cekmek-being-diaspora-is-a-wound/), _Meanjin_
 - [DMZ Colony](https://sydneyreviewofbooks.com/review/don-mee-choi-dmz-colony/), _Sydney Review of Books_
 - [Intimations](https://sydneyreviewofbooks.com/review/zadie-smith-intimations/), _Sydney Review of Books_
