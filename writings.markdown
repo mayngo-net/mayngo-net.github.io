@@ -24,13 +24,18 @@ order: 200
 ## Interviews
 
 - [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), author of 'Craft in the Real World,' _Asian American Writers Workshop_
-- [Diana Cam Van Nguyen](https://dvan.org/2022/04/diana-cam-van-nguyen-interview/), _diaCRITICS_
+- [Diana Cam Van Nguyen](https://dvan.org/2022/04/diana-cam-van-nguyen-interview/), filmaker, _diaCRITICS_
 - [Tracey Lien](https://www.liminalmag.com/interviews/tracey-lien), author of 'All That's Left Unsaid,' _Liminal Magazine_
 - [White People Won't Save You](https://podcasts.apple.com/us/podcast/no-escape-feat-may-ngo/id1433604924?i=1000599878657) podcast, a review of the movie 'No Escape' starring Owen Wilson. 
-- [_Liminal_](https://www.liminalmag.com/5-questions/may-ngo), I answered 5 questions about receiving the Kill Your Darlings New Critic Award 2021
+- [Liminal](https://www.liminalmag.com/5-questions/may-ngo), I answered 5 questions about receiving the Kill Your Darlings New Critic Award 2021
 
-## Theatre/Poetry Reviews
- 
+## Film/Theatre/Poetry Reviews
+
+- [Train to Busan](https://www.killyourdarlings.com.au/article/love-death-and-sacrifice-in-train-to-busan/), review of the 2018 Korean zombie movie, _Kill Your Darlings_
+- [On the Perils of Information Overload](https://www.podhoubi.com/post/on-the-perils-of-information-overload-about-the-performance-workshop-at-bazaar-festival), review of the performance WORKSHOP at the Bazaar Festival, _Podhoubi_
+- [All Writing is Pigshit](https://www.liminalmag.com/liminal-review-of-books/all-writing-is-pigshit), _Liminal_
+
+
 ## Book Reviews
 
 - [Oh William!](https://sydneyreviewofbooks.com/review/strout-oh-william/), _Sydney Review of Books_
