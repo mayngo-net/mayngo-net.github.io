@@ -7,7 +7,7 @@ order: 200
 
 ## Fiction
 
-- Short story [Mr Lim] published in Pleiades magazine "Silences of War: Erasure within Conflict," guest edited by Hadara Bar-Nadav and Jameelah Lang.  special folio issueFall 2022 and Spring 2023
+- Short story [Mr Lim](01_4243Ngo.pdf) published in Pleiades magazine "Silences of War: Erasure within Conflict," guest edited by Hadara Bar-Nadav and Jameelah Lang.  special folio issueFall 2022 and Spring 2023
 
 - Short story [Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), _Mascara Literary Review_
 
