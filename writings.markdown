@@ -7,9 +7,9 @@ order: 200
 
 ## Fiction
 
-- Short story 'Mr Lim' published in Pleiades magazine "Silences of War: Erasure within Conflict," guest edited by Hadara Bar-Nadav and Jameelah Lang.  special folio issueFall 2022 and Spring 2023
+- Short story [Mr Lim] published in Pleiades magazine "Silences of War: Erasure within Conflict," guest edited by Hadara Bar-Nadav and Jameelah Lang.  special folio issueFall 2022 and Spring 2023
 
-[Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), _Mascara Literary Review_
+- Short story [Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), _Mascara Literary Review_
 
 ## Audio Drama
 
@@ -45,19 +45,14 @@ order: 200
 - [One Hundred Days](https://sydneyreviewofbooks.com/review/pung-one-hundred-days/), _Sydney Review of Books_
 - [Craft in the Real World](https://sydneyreviewofbooks.com/review/salesses-craft-in-the-real-world/), _Sydney Review of Books_
 
-
-
-
 ## Book
 
 - [Between Humanitarianism and Evangelism in Faith-based Organisations: A Case from the African Migration Route](https://www.routledge.com/Between-Humanitarianism-and-Evangelism-in-Faith-based-Organisations-A/Ngo/p/book/9781138674172), academic book, Routledge
-
 
 ## Book chapters/anthologies
 
 - The ‘C’ word: Class, migrants and academia, book chapter in [Bread &amp; Roses: Voices of Australian Academics from the Working Class](https://www.springer.com/gp/book/9789463001274)
 - Edouard Louis, prose piece in [ZineWest 2020 anthology](https://nwg-inc.com/word/?p=4114)
-- Shopping Night, [Second City: Essays from Western Sydney](https://giramondopublishing.com/books/second-city-essays-from-western-sydney/)
 
 ## Blogs
 
