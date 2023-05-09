@@ -41,7 +41,7 @@ order: 200
 - [A Woman's Battles and Transformations](https://sydneyreviewofbooks.com/review/edouard-louis/) by Edouard Louis, _Sydney Review of Books_
 - [All That's Left Unsaid](https://meanjin.com.au/review/tuoi-tre-thieu-tinh-thuong/) by Tracey Lien, _Meanjin_
 - [Oh William!](https://sydneyreviewofbooks.com/review/strout-oh-william/) by Elizabeth Strout, _Sydney Review of Books_
-- [Lemon](https://sydneyreviewofbooks.com/review/lemon-kwon-yeo-sun/), _Sydney Review of Books_
+- [Lemon](https://sydneyreviewofbooks.com/review/lemon-kwon-yeo-sun/) by Kwon Yeo-Sun, _Sydney Review of Books_
 - [The Power of Words](https://wccm.org/book-reviews/the-power-of-words-simone-weil/) by Simone Weil _World Community for Christian Meditation_
 - [Root and Branch: Essays on Inheritance](https://meanjin.com.au/review/gurbet-cekmek-being-diaspora-is-a-wound/) by Eda Gunaydin, _Meanjin_
 - [DMZ Colony](https://sydneyreviewofbooks.com/review/don-mee-choi-dmz-colony/) by Don Mee Choi, _Sydney Review of Books_
