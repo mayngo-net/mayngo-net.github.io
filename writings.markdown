@@ -5,12 +5,29 @@ permalink: /writings
 order: 200
 ---
 
-## Recent
+## Fiction
+
+- Short story 'Mr Lim' published in Pleiades magazine "Silences of War: Erasure within Conflict," guest edited by Hadara Bar-Nadav and Jameelah Lang.  special folio issueFall 2022 and Spring 2023
+
+[Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), _Mascara Literary Review_
+
+## Audio Drama
 
 - Audio drama series (15 episodes, translated into German) [_Connect: The Secret Sex Society_](https://podimo.com/de/shows/974c9b3f-b10e-469c-8689-0a8ab487e128)
-- Essay: [Liberation/Fall](https://dvan.org/2021/04/liberation-fall/), _diaCRITICS_
-- Interview: [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), _Asian American Writers Workshop_
-- Interview: [Diana Cam Van Nguyen](https://dvan.org/2022/04/diana-cam-van-nguyen-interview/), _diaCRITICS_
+
+## Essays
+
+- [Shopping Night](https://sydneyreviewofbooks.com/essay/ngo-shopping-night/), _Sydney Review of Books_
+- [Looking for Paris](https://www.theliftedbrow.com/liftedbrow/2018/9/11/looking-for-paris-by-may-ngo), _The Lifted Brow_
+- [Liberation/Fall](https://dvan.org/2021/04/liberation-fall/), _diaCRITICS_
+
+## Interviews
+
+- [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), _Asian American Writers Workshop_
+- [Diana Cam Van Nguyen](https://dvan.org/2022/04/diana-cam-van-nguyen-interview/), _diaCRITICS_
+- [Tracey Lien]
+
+## Theatre/Poetry Reviews
  
 ## Book Reviews
 
@@ -28,11 +45,7 @@ order: 200
 - [One Hundred Days](https://sydneyreviewofbooks.com/review/pung-one-hundred-days/), _Sydney Review of Books_
 - [Craft in the Real World](https://sydneyreviewofbooks.com/review/salesses-craft-in-the-real-world/), _Sydney Review of Books_
 
-## Online
 
-- [Shopping Night](https://sydneyreviewofbooks.com/essay/ngo-shopping-night/), _Sydney Review of Books_
-- [Looking for Paris](https://www.theliftedbrow.com/liftedbrow/2018/9/11/looking-for-paris-by-may-ngo), _The Lifted Brow_
-- [Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), _Mascara Literary Review_
 
 
 ## Book
