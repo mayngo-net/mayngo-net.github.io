@@ -39,7 +39,7 @@ order: 200
 ## Book Reviews
 
 - [A Woman's Battles and Transformations](https://sydneyreviewofbooks.com/review/edouard-louis/) by Edouard Louis, _Sydney Review of Books_
-- [All That's Left Unsaid](https://meanjin.com.au/review/tuoi-tre-thieu-tinh-thuong/), _Meanjin_
+- [All That's Left Unsaid](https://meanjin.com.au/review/tuoi-tre-thieu-tinh-thuong/), Tracey Lien, _Meanjin_
 - [Oh William!](https://sydneyreviewofbooks.com/review/strout-oh-william/), _Sydney Review of Books_
 - [Lemon](https://sydneyreviewofbooks.com/review/lemon-kwon-yeo-sun/), _Sydney Review of Books_
 - [The Power of Words, Simone Weil](https://wccm.org/book-reviews/the-power-of-words-simone-weil/), _World Community for Christian Meditation_
