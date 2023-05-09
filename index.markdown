@@ -25,7 +25,7 @@ She used to blog at [The Violent Bear It Away](https://theviolentbearitaway1.wor
 
 - Shortlisted for the 2021 Wheeler Centre [The Next Chapter award](https://www.wheelercentre.com/next-chapter/meet-the-2021-writers/) for a crime fiction manuscript
 
-- Accepted onto the mentoring program Asian Women Writers, where I was mentored by Abigail Fenton, Editorial Director at HQ stories. You can read my profile here.
+- Accepted onto the mentoring program Asian Women Writers, where I was mentored by Abigail Fenton, Editorial Director at HQ stories. You can read my profile [here](https://www.asianwomenwriters.org/may-ngo/)
 
 
 ![May](/assets/may.jpg)
