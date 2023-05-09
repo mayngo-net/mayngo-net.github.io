@@ -32,7 +32,8 @@ order: 200
 ## Film/Theatre/Poetry Reviews
 
 - [Train to Busan](https://www.killyourdarlings.com.au/article/love-death-and-sacrifice-in-train-to-busan/), review of the 2018 Korean zombie movie, _Kill Your Darlings_
-- [On the Perils of Information Overload](https://www.podhoubi.com/post/on-the-perils-of-information-overload-about-the-performance-workshop-at-bazaar-festival), review of WORKSHOP at the [Bazaar Festival](https://bazaarfestival.cz/event/eero-epner-mart-kangro-juhan-ulfsak-ee-workshop/),
+- [On the Perils of Information Overload](https://www.podhoubi.com/post/on-the-perils-of-information-overload-about-the-performance-workshop-at-bazaar-festival), review of WORKSHOP at the [Bazaar Festival](https://bazaarfestival.cz/event/eero-epner-mart-kangro-juhan-ulfsak-ee-workshop/), _Podhoubi_
+- [All Writing is Pigshit](https://www.liminalmag.com/liminal-review-of-books/all-writing-is-pigshit), Ania Walwicz, _Liminal x Cordite Poetry Review_
 
 
 ## Book Reviews
