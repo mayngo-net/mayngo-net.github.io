@@ -49,8 +49,8 @@ order: 200
 - [My Brilliant Friend](https://www.killyourdarlings.com.au/article/my-brilliant-friend-and-i/) by Elena Ferrante, _Kill Your Darlings_
 - [On the Line](https://www.killyourdarlings.com.au/article/lives-on-the-line/) by Joseph Ponthus, _Kill Your Darlings_
 - [Disoriental](https://www.killyourdarlings.com.au/article/disoriental-and-the-dichotomies-of-diaspora/) by Négar Djavadi, _Kill Your Darlings_
-- [My Heart](https://www.killyourdarlings.com.au/article/the-complicated-grief-of-a-writer-in-exile/), _Kill Your Darlings_
-- [Minor Detail](https://www.killyourdarlings.com.au/article/minor-detail-asks-if-language-can-ever-truly-bear-witness/), _Kill Your Darlings_
+- [My Heart](https://www.killyourdarlings.com.au/article/the-complicated-grief-of-a-writer-in-exile/) by Semezdin Mehmedinović, _Kill Your Darlings_
+- [Minor Detail](https://www.killyourdarlings.com.au/article/minor-detail-asks-if-language-can-ever-truly-bear-witness/) by Adania Shibli, _Kill Your Darlings_
 - [One Hundred Days](https://sydneyreviewofbooks.com/review/pung-one-hundred-days/) by Alice Pung, _Sydney Review of Books_
 - [Craft in the Real World: Rethinking Fiction Writing and Workshopping](https://sydneyreviewofbooks.com/review/salesses-craft-in-the-real-world/) by Matthew Salesses, _Sydney Review of Books_
 
