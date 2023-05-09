@@ -7,9 +7,9 @@ order: 200
 
 ## Fiction
 
-- short story [Mr Lim](01_4243Ngo.pdf), _Pleiades_(https://secure.touchnet.com/C20040_ustores/web/product_detail.jsp?PRODUCTID=575) magazine special folio issue (Fall 2022/Spring 2023) 'Silences of War: Erasure within Conflict,' guest edited by Hadara Bar-Nadav and Jameelah Lang. You can read it [here](01_4243Ngo.pdf)
+- [Mr Lim](01_4243Ngo.pdf), short story in [_Pleiades_](https://secure.touchnet.com/C20040_ustores/web/product_detail.jsp?PRODUCTID=575) special folio issue (Fall 2022/Spring 2023) 'Silences of War: Erasure within Conflict,' guest edited by Hadara Bar-Nadav and Jameelah Lang. You can read it [here](01_4243Ngo.pdf)
 
-- short story [Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), _Mascara Literary Review_
+- [Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), short story in _Mascara Literary Review_
 
 ## Audio Drama
 
