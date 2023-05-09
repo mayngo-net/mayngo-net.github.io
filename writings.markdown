@@ -9,7 +9,7 @@ order: 200
 
 - [Mr Lim](01_4243Ngo.pdf), short story in [_Pleiades_](https://secure.touchnet.com/C20040_ustores/web/product_detail.jsp?PRODUCTID=575) special folio issue Fall 2022/Spring 2023, 'Silences of War: Erasure within Conflict' guest edited by Hadara Bar-Nadav and Jameelah Lang. You can read it [here](01_4243Ngo.pdf)
 
-- [Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), short story in _Mascara Literary Review_#Issue 22 June 2018, China Transnational
+- [Little Red Book](http://mascarareview.com/little-red-book-by-may-ngo/), short story in _Mascara Literary Review_ #Issue 22 June 2018, China Transnational
 
 ## Audio Drama
 
@@ -23,9 +23,9 @@ order: 200
 
 ## Interviews
 
-- [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), author of 'Craft in the Real World' _Asian American Writers Workshop_
+- [Matthew Salesses](https://aawwradio.libsyn.com/matthew-salesses-interviewed-by-may-ngo), author of 'Craft in the Real World,' _Asian American Writers Workshop_
 - [Diana Cam Van Nguyen](https://dvan.org/2022/04/diana-cam-van-nguyen-interview/), _diaCRITICS_
-- [Tracey Lien](https://www.liminalmag.com/interviews/tracey-lien), author of 'All That's Left Unsaid' _Liminal Magazine_
+- [Tracey Lien](https://www.liminalmag.com/interviews/tracey-lien), author of 'All That's Left Unsaid,' _Liminal Magazine_
 - 
 
 ## Theatre/Poetry Reviews
