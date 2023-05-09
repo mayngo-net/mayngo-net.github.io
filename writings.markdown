@@ -39,20 +39,20 @@ order: 200
 ## Book Reviews
 
 - [A Woman's Battles and Transformations](https://sydneyreviewofbooks.com/review/edouard-louis/) by Edouard Louis, _Sydney Review of Books_
-- [All That's Left Unsaid](https://meanjin.com.au/review/tuoi-tre-thieu-tinh-thuong/), Tracey Lien, _Meanjin_
-- [Oh William!](https://sydneyreviewofbooks.com/review/strout-oh-william/), _Sydney Review of Books_
+- [All That's Left Unsaid](https://meanjin.com.au/review/tuoi-tre-thieu-tinh-thuong/) by Tracey Lien, _Meanjin_
+- [Oh William!](https://sydneyreviewofbooks.com/review/strout-oh-william/) by Elizabeth Strout, _Sydney Review of Books_
 - [Lemon](https://sydneyreviewofbooks.com/review/lemon-kwon-yeo-sun/), _Sydney Review of Books_
-- [The Power of Words, Simone Weil](https://wccm.org/book-reviews/the-power-of-words-simone-weil/), _World Community for Christian Meditation_
-- [Root and Branch: Essays on Inheritance](https://meanjin.com.au/review/gurbet-cekmek-being-diaspora-is-a-wound/), _Meanjin_
-- [DMZ Colony](https://sydneyreviewofbooks.com/review/don-mee-choi-dmz-colony/), _Sydney Review of Books_
-- [Intimations](https://sydneyreviewofbooks.com/review/zadie-smith-intimations/), _Sydney Review of Books_
-- [My Brilliant Friend](https://www.killyourdarlings.com.au/article/my-brilliant-friend-and-i/), _Kill Your Darlings_
+- [The Power of Words](https://wccm.org/book-reviews/the-power-of-words-simone-weil/) by Simone Weil _World Community for Christian Meditation_
+- [Root and Branch: Essays on Inheritance](https://meanjin.com.au/review/gurbet-cekmek-being-diaspora-is-a-wound/) by Eda Gunaydin, _Meanjin_
+- [DMZ Colony](https://sydneyreviewofbooks.com/review/don-mee-choi-dmz-colony/) by Don Mee Choi, _Sydney Review of Books_
+- [Intimations](https://sydneyreviewofbooks.com/review/zadie-smith-intimations/) by Zadie Smith, _Sydney Review of Books_
+- [My Brilliant Friend](https://www.killyourdarlings.com.au/article/my-brilliant-friend-and-i/) by Elena Ferrante, _Kill Your Darlings_
 - [On the Line](https://www.killyourdarlings.com.au/article/lives-on-the-line/), _Kill Your Darlings_
 - [Disoriental](https://www.killyourdarlings.com.au/article/disoriental-and-the-dichotomies-of-diaspora/), _Kill Your Darlings_
 - [My Heart](https://www.killyourdarlings.com.au/article/the-complicated-grief-of-a-writer-in-exile/), _Kill Your Darlings_
 - [Minor Detail](https://www.killyourdarlings.com.au/article/minor-detail-asks-if-language-can-ever-truly-bear-witness/), _Kill Your Darlings_
-- [One Hundred Days](https://sydneyreviewofbooks.com/review/pung-one-hundred-days/), _Sydney Review of Books_
-- [Craft in the Real World](https://sydneyreviewofbooks.com/review/salesses-craft-in-the-real-world/), _Sydney Review of Books_
+- [One Hundred Days](https://sydneyreviewofbooks.com/review/pung-one-hundred-days/) by Alice Pung, _Sydney Review of Books_
+- [Craft in the Real World](https://sydneyreviewofbooks.com/review/salesses-craft-in-the-real-world/) by Matthew Salesses, _Sydney Review of Books_
 
 ## Book
 
