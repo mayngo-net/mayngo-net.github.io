@@ -5,7 +5,7 @@ permalink: /writings
 order: 200
 ---
 
-## Fiction
+## Fiction 
 
 - [Mr Lim](01_4243Ngo.pdf), short story in [_Pleiades_](https://secure.touchnet.com/C20040_ustores/web/product_detail.jsp?PRODUCTID=575) special folio issue Fall 2022/Spring 2023, 'Silences of War: Erasure within Conflict' guest edited by Hadara Bar-Nadav and Jameelah Lang. You can read it [here](01_4243Ngo.pdf)
 
