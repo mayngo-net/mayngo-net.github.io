@@ -25,7 +25,7 @@ She used to blog at [The Violent Bear It Away](https://theviolentbearitaway1.wor
 
 - Accepted onto the mentoring program [Asian Women Writers](https://www.asianwomenwriters.org) for her crime fiction manuscript with mentoring by Abigail Fenton, Editorial Director at HQ stories. You can read May's profile [here](https://www.asianwomenwriters.org/may-ngo/)
 
-- Recipient of the _Faber Writing Academy_ [Writing Creative Nonfiction scholarship 2024 with Rebecca Griggs](https://https://faberwritingacademy.com.au/2023/12/12/announcing-the-recipients-of-the-2024-faber-writing-scholarships/)
+- Recipient of the _Faber Writing Academy_ [Writing Creative Nonfiction scholarship 2024 with Rebecca Griggs](https://faberwritingacademy.com.au/2023/12/12/announcing-the-recipients-of-the-2024-faber-writing-scholarships/)
   
   
 ![May](/assets/may.jpg)
