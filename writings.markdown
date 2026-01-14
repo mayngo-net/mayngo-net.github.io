@@ -29,7 +29,7 @@ order: 200
 - [Tracey Lien](https://www.liminalmag.com/interviews/tracey-lien), author of 'All That's Left Unsaid,' _Liminal Magazine_
 - [White People Won't Save You](https://podcasts.apple.com/us/podcast/no-escape-feat-may-ngo/id1433604924?i=1000599878657) podcast, a review of the movie 'No Escape' starring Owen Wilson. 
 - [Liminal](https://www.liminalmag.com/5-questions/may-ngo), I answered 5 questions about receiving the Kill Your Darlings New Critic Award 2021
-- [Jean Alex Quach](https://https://diacritics.org/2023/05/culinary-objects-an-interview-with-jean-alex-quach/), Teochew-Cambodian-French artist, _diaCRITICS_
+- [Jean Alex Quach](https://diacritics.org/2023/05/culinary-objects-an-interview-with-jean-alex-quach/), Teochew-Cambodian-French artist, _diaCRITICS_
 - [Dužan Duong](https://diacritics.org/2025/11/interview-duzan-duong/), director of the first Czech-Vietnamese feature film, _diaCRITICS_
 
 ## Film/Theatre/Poetry Reviews
