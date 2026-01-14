@@ -37,6 +37,10 @@ order: 200
 - [Train to Busan](https://www.killyourdarlings.com.au/article/love-death-and-sacrifice-in-train-to-busan/), review of the 2018 Korean zombie movie, _Kill Your Darlings_
 - [On the Perils of Information Overload](https://www.podhoubi.com/post/on-the-perils-of-information-overload-about-the-performance-workshop-at-bazaar-festival), review of WORKSHOP at the [Bazaar Festival](https://bazaarfestival.cz/event/eero-epner-mart-kangro-juhan-ulfsak-ee-workshop/), _Podhoubi_
 - [All Writing is Pigshit](https://www.liminalmag.com/liminal-review-of-books/all-writing-is-pigshit), Ania Walwicz, _Liminal x Cordite Poetry Review_
+- [The Procession of Death](https://podhoubi.com/post/the-procession-of-death-alma-y-muertos-by-daniela-portillo-cisterna/), ALMA Y MUERTOS by Daniela Portillo Cisterna, _Podhoubi_
+- [Desire in the ruins](https://podhoubi.com/post/desire-in-the-ruins-about-the-performance-dance-floor-2022-at-the-bazaar-festival/), Dance Floor 2022 at the Bazaar Festival, _Podhoubi_
+- [Parent-Friendly Culture Symposium of Accessibility](https://podhoubi.com/post/parent-friendly-culture-symposium-of-accessibility/), _Podhoubi_
+- ["So much light!" (Sacrificial Lambs Become Idols)](https://podhoubi.com/post/so-much-light-sacrificial-lambs-become-idols/), 120 Idiots, _Podhoubi_
 
 
 ## Book Reviews
