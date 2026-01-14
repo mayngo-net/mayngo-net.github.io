@@ -41,6 +41,7 @@ order: 200
 
 ## Book Reviews
 
+- [Translations](https://sydneyreviewofbooks.com/reviews/translating-the-transcendent/) by Jumaana Abdu, _Sydney Review of Books_
 - [A Woman's Battles and Transformations](https://sydneyreviewofbooks.com/review/edouard-louis/) by Edouard Louis, _Sydney Review of Books_
 - [All That's Left Unsaid](https://meanjin.com.au/review/tuoi-tre-thieu-tinh-thuong/) by Tracey Lien, _Meanjin_
 - [Oh William!](https://sydneyreviewofbooks.com/review/strout-oh-william/) by Elizabeth Strout, _Sydney Review of Books_
