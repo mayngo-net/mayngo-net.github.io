@@ -232,7 +232,7 @@
     }
   }
   a{
-    word-wrap: break-word;      
+    word-wrap: break-word;
   }
   img {
     display: block;
@@ -240,4 +240,8 @@
     @include media-query($on-palm){
     }
   }
+}
+
+small {
+      @include relative-font-size(0.73);
 }
