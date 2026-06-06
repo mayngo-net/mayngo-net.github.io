@@ -15,7 +15,8 @@
   line-height: $base-line-height * $base-font-size * 4;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
+  flex: 0 0 auto;
+  white-space: nowrap;
 
   &,
   &:visited {
@@ -28,43 +29,18 @@
 }
 
 .site-nav {
-  float: right;
-  line-height: $base-line-height * $base-font-size * 5.5;
-  //margin-top: $base-font-size * 5.7;
+  padding:1rem 0 2rem 0;
+  display: flex;
+  justify-content: flex-start;  
+  flex-wrap: wrap;
+  column-gap: 1.4rem;
+  row-gap: 0.4rem;
 
   .page-link {
     color: $text-color;
-    line-height: $base-line-height;
-
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 30px;
-    }
+      flex-grow: 1;
   }
 
-  @include media-query($on-laptop){
-      clear:both;
-    float: left;
-    line-height: $base-line-height*2.2;
-    .page-link {
-     // padding:0;
-      &:not(:last-child) {
-        margin-right: 15px;
-      }
-    }
-  }
-
-  @include media-query($on-palm){
-      clear:both;
-    float: left;
-    line-height: $base-line-height*1.8;
-    .page-link {
-     // padding:0;
-      &:not(:last-child) {
-        margin-right: 15px;
-      }
-    }
-  }
 }
 
 

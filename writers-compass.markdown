@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /writers-compass
+title: Writer’s Compass
 order: -1
 ---
 
 !["Fairytale forest" photo](/forest.jpg)
-
-<h1 class="post-title">Writer’s Compass</h1>
-
 
 The writing process can be a lot like walking through a forest. You can feel stuck or lost. You might even be hesitant to enter into it.
 
