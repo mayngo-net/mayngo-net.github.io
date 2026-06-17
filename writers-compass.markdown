@@ -15,7 +15,7 @@ But I also have experienced how much books and words have saved me. After every 
 
 The writing process is transformative. I realised that we want to write not just to communicate, but to connect. 
 
-#### Who is this for?
+### Who is this for?
 
 You want to write something, or are in the middle of writing something but have become stuck. 
 
@@ -24,7 +24,7 @@ This writing can take various forms: fiction, non-fiction, audio drama, poetry, 
 
 It is for those who care as much about the writing process as the final product, because they understand that writing is transformative, that they can be changed by the process through being willing to go deeper - into their desires, longings, fears, memories - because they will meet themselves along the way. 
 
-#### What will we do
+### What will we do
 
 You have a self-defined writing project or goal (which can simply be to start writing). 
 
@@ -47,7 +47,7 @@ _Emotional support_
 
 The writing process can be an emotional rollercoaster! I know how pervasive those negative voices in our heads can be, as well as the unconscious beliefs that hold us back. Sometimes you need support to push through negative voices or when you’ve hit a wall in your writing. Sometimes you just need encouragement and someone to cheer you on. 
 
-#### What the Writer’s Compass is not
+### What the Writer’s Compass is not
 
 This is not about outsourcing the (sometimes agonising) work of writing, or for your writing to be rescued by me. It’s about stepping into your own power and agency as a writer, even if its timidly at first, and gaining confidence as you go along. 
 
@@ -55,7 +55,7 @@ We are working together to support you in your writing goals, but ultimately you
 
 I’ll be with you, but ultimately, it’s up to you to walk through the forest. This is for people willing to take that step. 
 
-#### Who am I
+### Who am I
 
 I’ve written and published short stories, audio dramas, an academic book as well as essays and book reviews. For more info please visit my websites: mayngo.net and praguewritersworkshop.cz
 
@@ -63,7 +63,7 @@ I’ve also worked for years as a teacher of English and completed a PhD in anth
 
 It is this relationship that creates a safe space for vulnerability - where true growth and development can occur. 
 
-#### How will it work
+### How will it work
 
 I start with listening to what you need.
 
@@ -72,7 +72,7 @@ In our coaching, I want to hold space for the little transformations that can oc
 
 The basic framework would look like this:
 
-#### Starter Plan
+### Starter Plan
 
 -	A total of 4 x calls (including kick-off call and evaluation call)
 -	A personalised writing plan
@@ -88,7 +88,7 @@ We can then continue on with a new set of goals, or end it there.
 
 This is a basic plan that we can do over a month or longer if you wish – we will decide this in the kick-off call. 
 
-#### Cost: 250 euros
+### Cost: 250 euros
 
 This Starter plan can vary and be flexible - want less or more?  Just email me. Any questions at all, please feel free to ask. 
 
