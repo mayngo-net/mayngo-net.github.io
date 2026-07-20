@@ -37,11 +37,11 @@ This is more than just about holding your feet to the fire so you don’t procra
 _Time management_
 
 Often getting in the way of productivity is time management. I can help you to find a workable writing schedule that includes times of rest or time away from the writing (which sometimes can be just as important!)
-We are often overwhelmed with the other demands in our lives and put our writing on the backburner. If you know that writing is important to you and need help with making it a priority, we can work on assessing your day, when you have the most creative energy, how you work best (writing in large or small chunks at a time) and determine what kind of schedule might work for you. This is more than just about time management – it’s about the creative process, and how we make space for it in our already busy lives. This is also about setting boundaries so that writing can become a priority. 
+We are often overwhelmed with the other demands in our lives and put our writing on the backburner. If you know that writing is important to you and need help with making it a priority, we can work on creating space and and setting boundaries. This is more than just about time management – it’s about the creative process and how we make space for it in our already busy lives. 
 
 _Writing craft_
 
-Depending on your writing project or goals, we can go over the basics of storytelling and crafting scenes and dialogue, how to write an essay for impact or how to write for sound in an audio drama, as just a few examples. We will work together to fine tune the writing on your particular project, identify your strengths and weaknesses as a writer and learn ways to continually improve your craft. 
+Depending on your writing project or goals, we can work on the craft of writing - basics of storytelling, creative non-fiction, essay-writing, audio drama, as just a few examples. We can identify your strengths and weaknesses as a writer and learn ways to continually improve your craft. 
 
 _Emotional support_
 
@@ -68,29 +68,21 @@ It is this relationship that creates a safe space for vulnerability - where true
 I start with listening to what you need.
 
 We will then talk through any current challenges you have and set some goals. I will then devise a strategy. The strategy determines the work ahead, while also, hopefully, leaving some room for magic, for the unexpected. 
-In our coaching, I want to hold space for the little transformations that can occur, as you start to move towards what you want to express as a writer. I hope that in our time together you will see that you can write, and that through guidance and support, can go on this journey.  
+In our coaching, I want to hold space for the little transformations that can occur, as you start to move towards what you want to express as a writer. I hope that in our time together you will see that you can write, and can continue on this writing journey long after you've finished your time with me. 
 
 The basic framework would look like this:
 
-### Starter Plan
+### Monthly plan
 
--	A total of 4 x calls (including kick-off call and evaluation call)
+-	Calls or emails
 -	A personalised writing plan
 -	Customised writing assignments
-  
-A 60 minute kick-off call where we find out what is and isn’t working for you in your writing and the current project you want to work on during our time together. In addition to learning more about your writing goals, I’ll find out more about your overall life and where/how writing can fit into it. We will come up with an objective or goal you want to achieve in this month.
 
-Then I’ll come back with a writing plan that works within your current lifestyle. This includes two check-in calls of one hour (or if you prefer, emails only) as well as customised assignments to move you towards your goal. 
+The exact configuration for the month will be determined together during the intake session. 
 
-At the end we’ll have a call to evaluate how far you’ve come and if you have achieved any of the objectives we set out in the first call. 
+### Cost: 250 euros per month
 
-We can then continue on with a new set of goals, or end it there.
-
-This is a basic plan that we can do over a month or longer if you wish – we will decide this in the kick-off call. 
-
-### Cost: 250 euros
-
-This Starter plan can vary and be flexible - want less or more?  Just email me. Any questions at all, please feel free to ask. 
+Any questions at all, please feel free to ask. 
 
 
 
