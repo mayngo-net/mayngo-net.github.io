@@ -80,7 +80,7 @@ The basic framework would look like this:
 
 The exact configuration for the month will be determined together during the intake session. 
 
-### Cost: 250 euros per month
+#### Cost: 250 euros per month
 
 Any questions at all, please feel free to ask. 
 
