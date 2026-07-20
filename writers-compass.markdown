@@ -92,7 +92,7 @@ Any questions at all, please feel free to ask.
 <button type="submit">Submit</button>
 </form>
 
-An article I wrote about the writing process:
+- An article I wrote about the writing process:
 
 [On how the writing process is like being pregnant](https://praguewritersworkshop.substack.com/p/on-how-the-writing-process-is-like?r=i8ci)
 
