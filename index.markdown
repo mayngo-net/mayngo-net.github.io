@@ -3,7 +3,9 @@ layout: no-title-page
 order: 100
 ---
 
-May Ngo is a writer, editor and former academic with a PhD in anthropology. She is Australian of Teo Chew Chinese-Cambodian descent currently based in Prague, Czech Republic. May is available for commissions in audio drama, writing, editing, research, copywriting as well as other creative collaborations. 
+![May](/assets/may.jpg)
+
+May Ngo is a writer, editor and former academic with a PhD in anthropology. She is Australian of Teo Chew Chinese-Cambodian descent. May is available for commissions in audio drama, writing, editing, research, copywriting as well as other creative collaborations. 
 
 You can read some of her writing [here](writings) 
 
@@ -28,4 +30,3 @@ She used to blog at [The Violent Bear It Away](https://theviolentbearitaway1.wor
 - Recipient of the _Faber Writing Academy_ [Writing Creative Nonfiction scholarship 2024 with Rebecca Griggs](https://faberwritingacademy.com.au/2023/12/12/announcing-the-recipients-of-the-2024-faber-writing-scholarships/)
   
   
-![May](/assets/may.jpg)
