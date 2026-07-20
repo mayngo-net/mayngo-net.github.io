@@ -57,7 +57,7 @@ I’ll be with you, but ultimately, it’s up to you to walk through the forest.
 
 ### Who am I
 
-I’ve written and published short stories, audio dramas, an academic book as well as essays and book reviews. For more info please visit my websites: [mayngo.net](mayngo.net),and [Prague Writers Workshop](https://praguewritersworkshop.substack.cz)
+I’ve written and published short stories, audio dramas, an academic book as well as essays and book reviews. For more info please visit my websites: [mayngo.net](mayngo.net), and [Prague Writers Workshop](https://praguewritersworkshop.substack.cz)
 
 I’ve also worked for years as a teacher of English and completed a PhD in anthropology. My experience in the educational sector has helped me understand that at the heart of learning is the teacher/student or coaching/client relationship. 
 
@@ -84,10 +84,6 @@ The exact configuration for the month will be determined together during the int
 
 Any questions at all, please feel free to ask. 
 
-An article I wrote about the writing process:
-
-[On how the writing process is like being pregnant](https://praguewritersworkshop.substack.com/p/on-how-the-writing-process-is-like?r=i8ci)
-
 <form target="_blank" action="https://formsubmit.co/{{ site.email }}" method="POST">
 
 <label for="email">Register your interest here with your email and I'll get back to you:</label>
@@ -95,5 +91,10 @@ An article I wrote about the writing process:
 
 <button type="submit">Submit</button>
 </form>
+
+An article I wrote about the writing process:
+
+[On how the writing process is like being pregnant](https://praguewritersworkshop.substack.com/p/on-how-the-writing-process-is-like?r=i8ci)
+
 
 <small>"Fairytale forest" by aivas14 is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
