@@ -86,7 +86,7 @@ Any questions at all, please feel free to ask.
 
 <form target="_blank" action="https://formsubmit.co/{{ site.email }}" method="POST">
 
-<label for="email">Register your interest here with your email and I'll get back to you:</label>
+<label for="email">Interested? Submit your email and I'll get back to you:</label>
 <input type="email" id="email" name="email">
 
 <button type="submit">Submit</button>
