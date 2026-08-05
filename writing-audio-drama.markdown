@@ -5,8 +5,7 @@ title: Writing Audio Drama
 order: 100
 ---
 
-<img width="567" height="800" alt="image" src="https://github.com/user-attachments/assets/3af34c9d-3a50-4821-af6b-02bb8ddf2f44" />
-
+!["Circus" photo](/circus2.png)
 
 ### Come and join the circus!
 
