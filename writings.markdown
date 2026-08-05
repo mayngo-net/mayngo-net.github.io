@@ -19,7 +19,7 @@ order: 200
 ## Essays
 
 - [Shopping Night](https://sydneyreviewofbooks.com/essay/ngo-shopping-night/), _Sydney Review of Books_
-- [Looking for Paris](LOOKING FOR PARIS.pdf), _The Lifted Brow_
+- [Looking for Paris](<LOOKING FOR PARIS.pdf>), _The Lifted Brow_
 - [Liberation/Fall](https://dvan.org/2021/04/liberation-fall/), _diaCRITICS_
 
 ## Interviews
